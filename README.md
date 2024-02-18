@@ -1,2 +1,4 @@
 # khushi
-abcd
+name:khushi maharjan
+class:BCA 3rd sem
+
